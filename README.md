@@ -1,16 +1,17 @@
-### Hi there 👋
+### Привет! 👋
 
-<!--
-**feelingcxld/feelingcxld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Мои проекты 📚
 
-Here are some ideas to get you started:
+* Кликни [сюда](https://github.com/feelingcxld/Dataquest) чтобы посмотреть мои проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Основные компетенции 💡
+- Инструменты: Python, SQLite, Git
+- Skills: 
+    * Обработка и анализ данных с помощью pandas и numpy
+    * Визуализация данных при помощи matplotlib и seaborn
+      
+### ⚡️ В настоящее время ⚡️
+- Прохожу курс Data Science с нуля до PRO от Skillfactory
+  
+### 🙌🏻 Свяжись со мной
+- [Telegram](https://t.me/feelingcxld)
